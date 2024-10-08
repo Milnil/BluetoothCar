@@ -4,7 +4,7 @@ from collections import deque
 import signal
 import time
 
-server_addr = 'd8:3a:dd:f8:70:e1'
+server_addr = 'd8:3a:dd:f8:70:e2'
 server_port = 1
 
 buf_size = 1024
